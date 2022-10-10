@@ -1,0 +1,43 @@
+.content{
+    width: 90%;
+    margin: 1.4rem auto;
+}
+
+.title{
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.title h1{
+    font-size: 2rem;
+    color: rgb(15, 15, 15);
+    font-weight: 500;
+}
+
+button{
+    margin-bottom: .8rem;
+    background-color: chocolate;
+}
+
+.table{
+    width: 100%;   
+}
+
+.edit{
+    color: rgb(206, 173, 24);
+}
+
+.delete{
+    margin-left: .5rem;
+    color: rgb(192, 94, 94)
+}
+
+.math-header{
+    width: 5rem;
+}
+
+.livros{
+    color: cyan;
+    margin-left: .6rem;
+}
+
